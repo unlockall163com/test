@@ -1,8 +1,9 @@
 /*++
 
+//Copyright (c) 1989-2000 Microsoft Corporation
 
-
-
+//Copyright (c) 1989-2000 Microsoft Corporation
+22222222
 
 Copyright (c) 1989-2000 Microsoft Corporation
 
@@ -1655,7 +1656,7 @@ Return Value:
     return;
 }
 
-
+//Copyright (c) 1989-2000 Microsoft Corporation
 
 ///Copyright (c) 1989-2000 Microsoft Corporation
 //Copyright (c) 1989-2000 Microsoft Corporation
