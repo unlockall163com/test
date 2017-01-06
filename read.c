@@ -1,5 +1,9 @@
 /*++
 
+
+
+
+
 Copyright (c) 1989-2000 Microsoft Corporation
 
 Module Name:
@@ -10,6 +14,10 @@ Abstract:
 
     This module implements the File Read routine for Read called by the
     dispatch driver.
+Copyright (c) 1989-2000 Microsoft Corporation
+Copyright (c) 1989-2000 Microsoft Corporation
+Copyright (c) 1989-2000 Microsoft Corporation
+Copyright (c) 1989-2000 Microsoft Corporation
 
 
 --*/
@@ -1649,3 +1657,7 @@ Return Value:
 
 
 
+///Copyright (c) 1989-2000 Microsoft Corporation
+//Copyright (c) 1989-2000 Microsoft Corporation
+//Copyright 222222(c) 1989-2000 Microsoft Corporation
+//11111111Copyright (c) 1989-2000 Microsoft Corporation
