@@ -4,7 +4,7 @@
 //
 ////// check
 //
-//  new checjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjk 
+//  new checjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjk 
 
 //aaaaaaaaaaaaaaaaabbbbbbbbbbca/
 //Copyright (c) 1989-2000 Microsoft Corporation
