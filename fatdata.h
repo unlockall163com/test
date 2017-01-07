@@ -1,4 +1,4 @@
-jjj/*++
+/*++
 
 Copyright (c) 1989-2000 Microsoft Corporation
 
@@ -7,7 +7,7 @@ Module Name:
     FatData.c
 
 Abstract:
-
+iiiiiiiiiiiiiiiiiiiiiiiiiii
     This module declares the global data used by the Fat file system.
 
 
