@@ -5,7 +5,7 @@
 ////// check
 //
 //  new check 
-lllllllllllllllllllllllllllllljjjjjjjjjj
+lllllllllllllllllllllllllllllljjjjjjjjjjjjjjjj
 //aaaaaaaaaaaaaaaaabbbbbbbbbbca/
 //Copyright (c) 1989-2000 Microsoft Corporation
 22222222
